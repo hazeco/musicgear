@@ -4,6 +4,7 @@
 > ระบบ E-Commerce สำหรับร้านขายเครื่องดนตรีและอุปกรณ์ดนตรีออนไลน์ รองรับ 3 บทบาทผู้ใช้งาน: **Customer, Staff, Admin**
 
 github page: [GitHub Page](https://csi204.github.io/musicgear/)
+web: [Musicgear](https://musicgear-web.thunderwolf2209.workers.dev/)
 
 ---
 
